@@ -1,0 +1,15 @@
+Nombre: uadad sidelgaum
+
+
+
+
+1.db.invenario.find({"genero": "Aventura","stock": {$elemMatch: { "cantidad": { $lt: 5 }} }}, { _id:0,"autor": 1 })
+2.db.invenario.find({"stock": {$elemMatch: {"ubicacion":"Estantería B","cantidad":{$lt:6}}}}, { _id:0,"titulo": 1 }
+3.db.invenario.find({$or:[{"genero":"Fantasía"},{"genero":"Ciencia ficción"}], "idioma": "fr"},{_id:0,titulo:1}
+4.db.invenario.find({"stock":{$size:3}}, { _id:0,"titulo": 1 })
+5.db.invenario.find({"stock": {$elemMatch: {  "cantidad": { $gt: 10 }}},"stock": {$elemMatch: {"cantidad":{ $lt: 8}}}},{"titulo":1})
+6.db.invenario.find({},{_id:0,titulo:1}).sort({stock:-1})
+7.db.invenario.find({},{_id:0,titulo:1}).limit(1)
+8.
+9.db.invenario.deleteMany( {  "idioma": "fr" } )
+10.

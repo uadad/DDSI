@@ -1,0 +1,61 @@
+[{
+  "_id": 1,
+  "item": "cuaderno",
+  "cantidad": 25,
+  "colores": [
+    "negro",
+    "rojo"
+  ],
+  "dim_cm": [
+    14,
+    21
+  ]
+},{
+  "_id": 2,
+  "item": "tarjeta",
+  "cantidad": 45,
+  "colores": [
+    "azul"
+  ],
+  "dim_cm": [
+    10,
+    15.25
+  ]
+},{
+  "_id": 3,
+  "item": "bloc",
+  "cantidad": 50,
+  "colores": [
+    "rojo",
+    "blanco"
+  ],
+  "dim_cm": [
+    14,
+    21
+  ]
+},{
+  "_id": 4,
+  "item": "cartulina",
+  "cantidad": 100,
+  "colores": [
+    "rojo",
+    "blanco",
+    "negro"
+  ],
+  "dim_cm": [
+    14,
+    21
+  ]
+},{
+  "_id": 5,
+  "item": "agenda",
+  "cantidad": 75,
+  "colores": [
+    "blanco",
+    "rojo"
+  ],
+  "dim_cm": [
+    22.85,
+    30
+  ]
+}]

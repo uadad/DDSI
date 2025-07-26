@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1, "titulo": "El señor de los anillos", "autor": "J.R.R. Tolkien", "genero": "Fantasía", "idioma": ["en", "sp"],
+    "stock": [
+      { "ubicacion": "Estantería A", "cantidad": 10 },
+      { "ubicacion": "Estantería B", "cantidad": 5 },
+      { "ubicacion": "Estantería C", "cantidad": 8 }
+    ]
+  },
+  {
+    "_id": 2, "titulo": "Las Crónicas de Narnia", "autor": "C.S. Lewis", "genero": "Aventura", "idioma": ["sp", "fr"],
+    "stock": [
+      { "ubicacion": "Estantería B", "cantidad": 8 },
+      { "ubicacion": "Estantería C", "cantidad": 2 }
+    ]
+  },
+  {
+    "_id": 3, "titulo": "Un mundo feliz", "autor": "Aldous Huxley", "genero": "Ciencia ficción", "idioma": ["fr", "en"],
+    "stock": [
+      { "ubicacion": "Estantería A", "cantidad": 6 }
+    ]
+  },
+  {
+    "_id": 4, "titulo": "Harry Potter y la piedra filosofal", "autor": "J.K. Rowling", "genero": "Fantasía", "idioma": ["sp"],
+    "stock": [
+      { "ubicacion": "Estantería A", "cantidad": 7 },
+      { "ubicacion": "Estantería C", "cantidad": 10 }
+    ]
+  },
+  {
+    "_id": 5, "titulo": "El código Da Vinci", "autor": "Dan Brown", "genero": "Aventura", "idioma": ["en"],
+    "stock": [
+      { "ubicacion": "Estantería A", "cantidad": 15 },
+      { "ubicacion": "Estantería B", "cantidad": 7 },
+      { "ubicacion": "Estantería C", "cantidad": 11 }
+    ]
+  }
+]

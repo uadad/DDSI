@@ -1,0 +1,5 @@
+[{ "_id": 1, "item": "cuaderno", "cantidad": 25, "tam": { "h": 14, "w": 21, "unidad": "cm" }, "estado": "A" },
+  { "_id": 2, "item": "tarjeta", "cantidad": 45, "tam": { "h": 10, "w": 15.25, "unidad": "cm" }, "estado": "A" },
+  { "_id": 3, "item": "agenda", "cantidad": 75, "tam": { "h": 22.85, "w": 30, "unidad": "cm" }, "estado": "D" },
+  { "_id": 4, "item": "bloc", "cantidad": 50, "tam": { "h": 8.5, "w": 11, "unidad": "in" }, "estado": "A" },
+  { "_id": 5, "item": "cartulina", "cantidad": 100, "tam": { "h": 8.5, "w": 11, "unidad": "in" }, "estado": "D" }]

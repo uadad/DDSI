@@ -1,0 +1,5 @@
+[{ "_id": 1, "item": "cuaderno", "stock": [ { "almacen": "A", "cantidad": 5 }, { "almacen": "C", "cantidad": 15 } ] },
+  { "_id": 2, "item": "tarjeta", "stock": [ { "almacen": "C", "cantidad": 5 } ] },
+  { "_id": 3, "item": "agenda", "stock": [ { "almacen": "A", "cantidad": 60 }, { "almacen": "B", "cantidad": 15 } ] },
+  { "_id": 4, "item": "bloc", "stock": [ { "almacen": "A", "cantidad": 40 }, { "almacen": "B", "cantidad": 5 } ] },
+  { "_id": 5, "item": "cartulina", "stock": [ { "almacen": "B", "cantidad": 15 }, { "almacen": "C", "cantidad": 35 } ] } ]

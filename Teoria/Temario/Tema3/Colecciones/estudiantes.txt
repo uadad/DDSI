@@ -1,0 +1,11 @@
+db.estudiantes.insertMany( [
+{_id:1, "nombre":"Juan Manuel", "titulo": "Ingeniería Informática", "comienzo": 2016, "fin": 2021},
+{_id:2, "nombre":"Rocío", "titulo": "Ingeniería Informática", "comienzo": 2021},
+{_id:3, "nombre":"Tenorio", "titulo": "Ingeniería Informática", "comienzo": 2016, "fin": 2021},
+{_id:4, "nombre":"María del Mar", "titulo": "Ingeniería Informática", "comienzo": 2021},
+{_id:5, "nombre":"Alfonso", "titulo": "Ingeniería Mecánica", "comienzo": 2015, "fin": 2021},
+{_id:6, "nombre":"Begoña", "titulo": "Ingeniería Mecánica", "comienzo": 2021},
+{_id:7, "nombre":"Luis", "titulo": "Ingeniería Mecánica", "comienzo": 2011, "fin": 2017},
+{_id:8, "nombre":"María del Carmen", "titulo": "Ingeniería Forestal", "comienzo": 2020},
+{_id:9, "nombre":"Santiago", "titulo": "Ingeniería Forestal", "comienzo": 2018, "fin": 2022},
+{_id:10, "nombre":"Celia", "titulo": "Ingeniería Agrícola", "comienzo": 2021} ] );
